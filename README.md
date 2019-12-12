@@ -9,7 +9,7 @@ endRound.py- File to send an end round message
 To run locally:
 Make sure the MQTT (pika) connection is listening on localhost (CTRL-F 'connection' to find the code block)
 > python3 agent.py <Watson or Celia>
-> python3 sendUtilities.py (to start a round)
+> python3 sendUtilities.py (to send utilities)
 > python3 startRound.py (to start round)
 use 'python3 marketPlace.py' and 'python3 otherAgent.py' to send messages
 > python3 endRound.py
