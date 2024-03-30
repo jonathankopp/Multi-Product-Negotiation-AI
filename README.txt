@@ -1,3 +1,7 @@
+Project Team Members:
+Johnathan Stadler
+Jonathan Koppelman
+
 Multi-Product Negotiation:
 
 This project contains the following files:
